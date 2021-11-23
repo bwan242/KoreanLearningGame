@@ -1,0 +1,15 @@
+안녕하세요,Hello,Goodbye,Nice to meet you,I'm doing well,0,v
+감사합니다,Hello,Goodbye,Thank you,I'm doing well,2,v
+밥 먹었어요?,Where are you?,Have you eaten?,What is your name?,How is the food?,1,v
+날씨가 어때요?,How is the weather?,What is your name?,Which country are you from?,Who is that?,0,v
+이름이 뭐예요?,How is the weather?,What is your name?,How old are you?,What do you study?,1,v
+전공이 뭐예요?,What is your major?,Where are you?,How is the weather?,Which country are you from?,0,v
+취미가 뭐예요?,How old are you?,What is your hobby?,Where are you from?,What is your major?,1,v
+Library,우체국,공원,술,도서관,3,v
+시험,Homework,Department Store,Cat,Exam,3,v
+Pencil,연필,차,고양이,볼펜,0,v
+어디___ 있어요?,에,는,가,이,0,g
+저___ 마이클이에요,는,에,가,로,0,g
+저는 도서관____ 공부해요,에서,가,하고,은,0,g
+셀리 씨는 _____ 날씨를 좋아해요,추운,추원,춥은,춥는,0,g
+친구를 만나__ 가요,로,러,는,다,1,g
